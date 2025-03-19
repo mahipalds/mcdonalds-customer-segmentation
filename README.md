@@ -2,7 +2,7 @@
 
 This project focuses on **analyzing and segmenting McDonald's customers** based on their perceptions, preferences, and behaviors. Using **K-Means clustering and Gaussian Mixture Models (GMM)**, we identify distinct customer groups and evaluate how their opinions impact their purchasing decisions.
 
-## Key Steps in the Analysis:
+## Key Steps in the Analysis: 
 - **Data Preprocessing & Encoding** – Converted categorical data (e.g., *"Like"* ratings) into numerical format for analysis.
 - **Segment Extraction** – Applied **K-Means** and **GMM** to identify customer segments.
 - **Segment Profiling** – Created **bar charts and box plots** to visualize key characteristics of each segment.
