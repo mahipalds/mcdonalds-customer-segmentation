@@ -1,4 +1,4 @@
-# McDonald's Customer Segmentation Analysis
+# McDonald's Customer Segmentation Analysis 
 
 This project focuses on **analyzing and segmenting McDonald's customers** based on their perceptions, preferences, and behaviors. Using **K-Means clustering and Gaussian Mixture Models (GMM)**, we identify distinct customer groups and evaluate how their opinions impact their purchasing decisions.
 
